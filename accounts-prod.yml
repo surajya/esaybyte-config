@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook-pushevent AjPIs latest finding gening "
+  message: "Welcome to EazyBank accounts related prod API"
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}779a24c28e8fc71a5a07b4677cc83dbcfe61f1640fdc701661ac2f3c43a20d384e8cf76a80b8425c7bf8014ab826d0cb"
